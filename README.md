@@ -1,6 +1,6 @@
 # npmdoc-msnodesql
 
-#### api documentation for  [msnodesql (v0.2.1)](https://github.com/WindowsAzure/node-sqlserver)  [![npm package](https://img.shields.io/npm/v/npmdoc-msnodesql.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-msnodesql) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-msnodesql.svg)](https://travis-ci.org/npmdoc/node-npmdoc-msnodesql)
+#### basic api documentation for  [msnodesql (v0.2.1)](https://github.com/WindowsAzure/node-sqlserver)  [![npm package](https://img.shields.io/npm/v/npmdoc-msnodesql.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-msnodesql) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-msnodesql.svg)](https://travis-ci.org/npmdoc/node-npmdoc-msnodesql)
 
 #### Microsoft Driver for Node.js for SQL Server
 
